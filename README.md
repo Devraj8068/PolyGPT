@@ -14,6 +14,5 @@
 2. The backend detects the language and sends it to the model  
 3. The **LLM responds** in the same language  
 4. The chat interface displays messages in a styled conversational view  
-
---- 
+ 
 
