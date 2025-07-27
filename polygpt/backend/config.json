@@ -1,0 +1,10 @@
+{
+  "groq": "GET_FREE_KEY_FROM_https://console.groq.com",
+  "huggingface": "GET_FREE_KEY_FROM_https://huggingface.co/settings/tokens",
+  "together": "GET_FREE_KEY_FROM_https://api.together.xyz",
+  "replicate": "GET_FREE_KEY_FROM_https://replicate.com",
+  "openrouter": "GET_FREE_KEY_FROM_https://openrouter.ai",
+  "gemini": "AIzaSyAu6HP2SaObKyNzqbdpyXZ-B2WU4dzT4g4",
+  "openai": "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",
+  "deepinfra": "WQkdwPLcLAzvjj7mwI5ydOcKTU35YRuK"
+}
